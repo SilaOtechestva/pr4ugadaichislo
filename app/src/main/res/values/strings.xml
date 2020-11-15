@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UgadaiKasatikova</string>
+    <string name="behind">Недолёт!!!!!</string>
+    <string name="ahead">Перелёт!!!!!</string>
+    <string name="hit">Верно!!! Поздравляем!</string>
+    <string name="try_to_guess">Угадайте число (1 &#8211; 100)</string>
+
+    <string name="input_value">Ввести значение</string>
+    <string name="play_more">Сыграть ещё?</string>
+
+
+</resources>
